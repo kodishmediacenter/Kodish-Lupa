@@ -38,7 +38,10 @@ R= Conforme o art 21 da regras da Kodish vc tem algum addon banido da kodish da 
 5) Como Retirar player externo do Kodi pelo Kodish Store
 
 Vai na penutima opção
-     <img src="https://prnt.sc/cRt_ORcsidiG">
+     <img src="">
+     
+     ![Logo da Empresa]((https://prnt.sc/cRt_ORcsidiG))
+
 Vai em Remover Player Externo e Reinicie o Kodi
      <img src="https://prnt.sc/B1hAasQ1zxdU">
 Como gerar a apis do youtube
