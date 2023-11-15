@@ -40,11 +40,11 @@ R= Conforme o art 21 da regras da Kodish vc tem algum addon banido da kodish da 
 Vai na penutima opção
 ![Passo 1](https://img001.prntscr.com/file/img001/gOOpK0mDTdCUuUNitmDZ-Q.png)
 
-
 Vai em Remover Player Externo e Reinicie o Kodi
-     <img src="https://prnt.sc/B1hAasQ1zxdU">
+![Passo 2](https://img001.prntscr.com/file/img001/gJAvUVDiTSmCOYflL4DhWA.png)
+     
 Como gerar a apis do youtube
-    <img src="https://rumble.com/v37gkeu-gerando-api-do-youtube.html
+   https://rumble.com/v37gkeu-gerando-api-do-youtube.html
 Como adicionar as apis via web
    https://rumble.com/v2xosxu-confugurando-kodi-de-maneira-muito-simples.html
 
