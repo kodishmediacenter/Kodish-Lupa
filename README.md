@@ -43,39 +43,40 @@ R= Conforme o art 21 da regras da Kodish vc tem algum addon banido da kodish da 
 # Vai em Remover Player Externo e Reinicie o Kodi
 ![Passo 2](https://img001.prntscr.com/file/img001/gJAvUVDiTSmCOYflL4DhWA.png)
      
-Como gerar a apis do youtube
+6) Como gerar a apis do youtube
    https://rumble.com/v37gkeu-gerando-api-do-youtube.html
-Como adicionar as apis via web
+   
+7) Como adicionar as apis via web
    https://rumble.com/v2xosxu-confugurando-kodi-de-maneira-muito-simples.html
 
-6) Como Instalar e Desistalar addons
+8) Como Instalar e Desistalar addons
 https://rumble.com/v3lncbg-como-instalar-addons-no-kodi.html
 
-7) Kodiflix é um apliance que instala automaticamente uma build mas detalhes no link abaixo
+9) Kodiflix é um apliance que instala automaticamente uma build mas detalhes no link abaixo
 https://www.facebook.com/groups/1500166796953812/user/100033828818047
 
-8) As Regras do Grupo
+10) As Regras do Grupo
 https://www.facebook.com/photo/?fbid=6826572467378774&set=oa.268139432362429
 
-9) Transferência de Arquivos via Wi-Fi celular para tv box e vice versa
+11) Transferência de Arquivos via Wi-Fi celular para tv box e vice versa
 https://rumble.com/v3u4wg4-envie-e-receba-arquivos-via-wi-fi-de-maneira-facil.html
 
-10) Como instalar o Kodi na Android TV ou na TV com Android TV
+12) Como instalar o Kodi na Android TV ou na TV com Android TV
 https://rumble.com/v3vfeyl-instalando-kodi-na-android-tv-e-tv-smart.html
 
 
-11) Instalando Kodi via Flatpak 
+12) Instalando Kodi via Flatpak 
 
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo flatpak install flathub tv.kodi.Kodi
 
-12) Instalando Kodi via apt
+13) Instalando Kodi via apt
 
 sudo apt install software-properties-common
 sudo add-apt-repository -y ppa:team-xbmc/xbmc-nightly
 sudo apt install kodi
 
-13) Fazer Backup do Kodi via linux
+14) Fazer Backup do Kodi via linux
 
 tar cf - "${HOME}/.kodi/" | xz -z9e - >"${HOME}/kodi-backup_$(date +%m%d%y-%H%M).tar.xz"
 
