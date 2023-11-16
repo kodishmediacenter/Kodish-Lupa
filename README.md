@@ -85,3 +85,6 @@ a fonte no kodi
 
 http://kodishteam.space/who
 
+15) Imagem de texto do Kodi está cortando (ou vazando)
+    
+https://rumble.com/v3w4na5-kodi-saindo-para-fora-da-tela-corrija-hoje-mesmo.html
