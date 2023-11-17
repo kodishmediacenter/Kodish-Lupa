@@ -68,6 +68,7 @@ https://rumble.com/v3vfeyl-instalando-kodi-na-android-tv-e-tv-smart.html
 12) Instalando Kodi via Flatpak 
 
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
 sudo flatpak install flathub tv.kodi.Kodi
 
 13) Instalando Kodi via apt
