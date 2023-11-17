@@ -93,3 +93,6 @@ https://rumble.com/v3w4na5-kodi-saindo-para-fora-da-tela-corrija-hoje-mesmo.html
 16) Fontes Recomendadas e Colocar teclado do Kodi ABNT2
     
 https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.html?mref=t2my1&mc=c19yi
+
+17) Erro  de Log
+  https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/errodelog.md
