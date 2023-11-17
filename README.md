@@ -88,3 +88,7 @@ http://kodishteam.space/who
 15) Imagem de texto do Kodi está cortando (ou vazando)
     
 https://rumble.com/v3w4na5-kodi-saindo-para-fora-da-tela-corrija-hoje-mesmo.html
+
+16) Fontes Recomendadas e Colocar teclado do Kodi ABNT2
+    
+https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.html?mref=t2my1&mc=c19yi
