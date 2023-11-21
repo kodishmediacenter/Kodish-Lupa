@@ -1,5 +1,5 @@
-#Dicas
+# Dicas<br>
 Atualizado Kodi Omega 👉21 Beta1 e para Evitar travamento de canais e TV Legalizada Pluto Tv e Lib canais abertos apenas em 3 passos instalação e Configuração: (Baixe na Play Store: Kodi instale App)  
 
-#Link
+# Link<br>
 https://play.google.com/store/apps/details?id=org.xbmc.kodi ou do Site Android Arm ou Windows https://mirrors.kodi.tv/releases/
