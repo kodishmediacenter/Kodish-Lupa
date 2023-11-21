@@ -8,5 +8,5 @@ https://play.google.com/store/apps/details?id=org.xbmc.kodi ou do Site Android A
 🔥1 - Instalar Canais (Add-ons install Repository)》Kodi repository》PVR Clients》👉Pluto TV
 
 # IPTV Simple Client<br>
-👉IPTV Simple》install》Configure》URL Site: http://lib.bz e (Add-on install zip)
+👉IPTV Simple》install》Configure》URL Site: <b> Site de sua preferencia m3u ou m3u8 </b>
 
