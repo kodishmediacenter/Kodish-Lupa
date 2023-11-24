@@ -100,3 +100,7 @@ https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.ht
 18) Instalar o PVR da Pluto TV
 
     https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/instalando-Plutotv-PVR.md
+
+19) Busca de Filmes no Hidra
+
+    https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/Hidra-Rajada.md 
