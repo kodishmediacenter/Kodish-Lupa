@@ -104,3 +104,6 @@ https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.ht
 19) Busca de Filmes no Hidra
 
     https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/Hidra-Rajada.md 
+
+20) Fazer login no youtube
+Tem gerar a api tem verificar no topico 6 tem link para procedimento
