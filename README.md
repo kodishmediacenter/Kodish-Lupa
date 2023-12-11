@@ -107,3 +107,7 @@ https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.ht
 
 20) Fazer login no youtube
 Tem gerar a api tem verificar no topico 6 tem link para procedimento
+
+21) Tutorial uso Nyaa Laucher
+     https://rumble.com/v3zrek3-como-instalar-nyaa-laucher.html
+    
