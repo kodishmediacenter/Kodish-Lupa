@@ -22,12 +22,9 @@ Aqui adms remotos continua tendo voz e direitos igual aplicado em seu grupo ou e
 19) Foi criada a regra de moderação de grupos whatsapp pois isentando a Kodish pelos membros banidos
 Politica de Moderação de Grupos
 
->> Prezados Membros a Kodish Team não colocará vc de volta no grupo caso seja banido do grupo.
-
+>> Prezados Membros a Kodish Team não colocará vc de volta no grupo caso seja banido do grupo por ser membros dos mencionados art 21 ou que sofreu banimento imperdoavel 
 >> Se vc saiu acidentalmente ai volta depois 7 dias pelo link do grupo
-
 >> Por gentileza procure Administrador Mor do Grupo
-
 >> Nos caso addons é obrigação cada desenvolvedor deve procurar o mesmo no INBOX
 
 >> Ucolecionador
@@ -85,3 +82,5 @@ Youtube (Pois nosso conteudo é proibido la somente membros pode ver)
 49) Ao sinalizar erro tem que informar a versao do Kodi e Sistema Operacional sujeito TO (1 dia a 7 dias) ou banimento em causa reicidencia
 50) banido addon cine+
 51) fica proibido falar malwares aqui no grupo sujeito ao permaban
+52) Banimento por atos imperdoaveis nunca mais volta para grupo
+53) Não questione ban imperdoavel pois isso da TO (Suspensão) de 28 dias 
