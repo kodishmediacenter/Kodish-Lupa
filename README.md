@@ -56,7 +56,7 @@ https://rumble.com/v3lncbg-como-instalar-addons-no-kodi.html
 https://www.facebook.com/groups/1500166796953812/user/100033828818047
 
 10) As Regras do Grupo
-https://www.facebook.com/photo/?fbid=6826572467378774&set=oa.268139432362429
+https://raw.githubusercontent.com/kodishmediacenter/Kodish-Lupa/main/regras.md
 
 11) Transferência de Arquivos via Wi-Fi celular para tv box e vice versa
 https://rumble.com/v3u4wg4-envie-e-receba-arquivos-via-wi-fi-de-maneira-facil.html
