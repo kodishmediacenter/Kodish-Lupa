@@ -1,5 +1,5 @@
 # Para reproduzir vídeos em 4K em TVs 4K, siga este guia passo a passo:<br>
-![Passo 1](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6532/6532123_sd.jpg)
+<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6532/6532123_sd.jpg">
 
 # 1. **TV 4K:**
    - Certifique-se de que possui uma TV 4K compatível. Verifique as especificações da sua TV para garantir que ela suporte a resolução 4K.
