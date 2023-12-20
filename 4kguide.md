@@ -28,7 +28,7 @@
    - Se estiver reproduzindo vídeos a partir de um dispositivo de armazenamento local, certifique-se de ter espaço suficiente e que o dispositivo seja compatível com vídeos 4K.
 
 # 10. **Atualizações de Firmware:**
-    - Mantenha o firmware da sua TV e da fonte de vídeo atualizado para garantir a compatibilidade com os últimos padrões e melhorias de desempenho.
+   - Mantenha o firmware da sua TV e da fonte de vídeo atualizado para garantir a compatibilidade com os últimos padrões e melhorias de desempenho.
 
 
 # Ao seguir esses passos, você estará configurado para desfrutar de vídeos em resolução 4K na sua TV 4K. Lembre-se de que a experiência 4K também depende da qualidade do conteúdo e da fonte de vídeo.
