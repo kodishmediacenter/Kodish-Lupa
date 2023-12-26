@@ -44,24 +44,27 @@ R= Conforme o art 21 da regras da Kodish vc tem algum addon banido da kodish da 
 ![Passo 2](https://img001.prntscr.com/file/img001/gJAvUVDiTSmCOYflL4DhWA.png)
      
 6) Como gerar a apis do youtube
+     OP1 
    https://rumble.com/v37gkeu-gerando-api-do-youtube.html
+     OP2
+   https://www.bilibili.tv/en/video/4787934482143744
    
-7) Como adicionar as apis via web
+8) Como adicionar as apis via web
    https://rumble.com/v2xosxu-confugurando-kodi-de-maneira-muito-simples.html
 
-8) Como Instalar e Desistalar addons
+9) Como Instalar e Desistalar addons
 https://rumble.com/v3lncbg-como-instalar-addons-no-kodi.html
 
-9) Kodiflix é um apliance que instala automaticamente uma build mas detalhes no link abaixo
+10) Kodiflix é um apliance que instala automaticamente uma build mas detalhes no link abaixo
 https://www.facebook.com/groups/1500166796953812/user/100033828818047
 
-10) As Regras do Grupo
+11) As Regras do Grupo
 https://raw.githubusercontent.com/kodishmediacenter/Kodish-Lupa/main/regras.md
 
-11) Transferência de Arquivos via Wi-Fi celular para tv box e vice versa
+12) Transferência de Arquivos via Wi-Fi celular para tv box e vice versa
 https://rumble.com/v3u4wg4-envie-e-receba-arquivos-via-wi-fi-de-maneira-facil.html
 
-12) Como instalar o Kodi na Android TV ou na TV com Android TV
+13) Como instalar o Kodi na Android TV ou na TV com Android TV
 https://rumble.com/v3vfeyl-instalando-kodi-na-android-tv-e-tv-smart.html
 
 
