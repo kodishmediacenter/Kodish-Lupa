@@ -91,11 +91,11 @@ http://kodishteam.space/who
 
 15) Imagem de texto do Kodi está cortando (ou vazando)
     
-https://rumble.com/v3w4na5-kodi-saindo-para-fora-da-tela-corrija-hoje-mesmo.html
+https://www.bilibili.tv/en/video/4789777465737728
 
 16) Fontes Recomendadas e Colocar teclado do Kodi ABNT2
     
-https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.html?mref=t2my1&mc=c19yi
+https://www.bilibili.tv/en/video/4789777614897664
 
 17) Erro  de Log
   https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/errodelog.md
@@ -103,6 +103,9 @@ https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.ht
 18) Instalar o PVR da Pluto TV
 
     https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/instalando-Plutotv-PVR.md
+	
+	Ou Video 
+	https://www.bilibili.tv/en/video/4789761221067776
 
 19) Busca de Filmes no Hidra
 
@@ -112,5 +115,5 @@ https://rumble.com/v3w4p4t-configure-a-fontes-recomendada-da-kodish-e-teclado.ht
 Tem gerar a api tem verificar no topico 6 tem link para procedimento
 
 21) Tutorial uso Nyaa Laucher
-     https://rumble.com/v3zrek3-como-instalar-nyaa-laucher.html
+     https://www.bilibili.tv/en/video/4789777393648640
     
