@@ -39,6 +39,7 @@ Politica de Moderação de Grupos
 >> Bluray Plays
 >> Br Live
 >> Nordeste Tv
+>> Apollo (Mas sem sansão contra)
 
 22) O Regime do Grupo é Moderador sujeito bans monocrático
 23) Os membros com duvida tem preencher o Checklist sem preenchimento se enquadra na regra 6 de Harashi
