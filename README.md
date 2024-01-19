@@ -44,13 +44,11 @@ R= Conforme o art 21 da regras da Kodish vc tem algum addon banido da kodish da 
 ![Passo 2](https://img001.prntscr.com/file/img001/gJAvUVDiTSmCOYflL4DhWA.png)
      
 6) Como gerar a apis do youtube
-     OP1 
-   https://rumble.com/v37gkeu-gerando-api-do-youtube.html
-     OP2
+
    https://www.bilibili.tv/en/video/4787934482143744
    
 8) Como adicionar as apis via web
-   https://rumble.com/v2xosxu-confugurando-kodi-de-maneira-muito-simples.html
+   https://www.bilibili.tv/en/video/4789690878132736
 
 9) Como Instalar e Desistalar addons
 https://rumble.com/v3lncbg-como-instalar-addons-no-kodi.html
