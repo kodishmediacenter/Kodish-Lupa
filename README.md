@@ -122,3 +122,6 @@ Tem gerar a api tem verificar no topico 6 tem link para procedimento
 
 - Kodish Store
 https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/kodish-bruno.md
+
+- Rajada Dev Blog
+https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/rajada.md
