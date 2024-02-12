@@ -109,9 +109,16 @@ https://www.bilibili.tv/en/video/4789777614897664
 
     https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/Hidra-Rajada.md 
 
+
+
 20) Fazer login no youtube
 Tem gerar a api tem verificar no topico 6 tem link para procedimento
 
 21) Tutorial uso Nyaa Laucher
      https://www.bilibili.tv/en/video/4789777393648640
     
+
+# Tutoriais da Comunidade 
+
+- Kodish Store
+https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/kodish-bruno.md
