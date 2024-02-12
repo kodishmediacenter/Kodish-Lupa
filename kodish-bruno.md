@@ -13,7 +13,7 @@ O Kodish Repo Store é um dos maiores e mais completos repositórios de add-ons 
 
 Além disso, o Kodish Repo Store também oferece builds e wizards para o Kodi. As builds são pacotes que modificam a aparência e o funcionamento do Kodi, instalando vários add-ons e temas de uma só vez. Os wizards são ferramentas que facilitam a instalação e a manutenção das builds, permitindo atualizar, restaurar e limpar o Kodi com facilidade.
 
-Como instalar o Kodish Repo Store?
+# Como instalar o Kodish Repo Store?
 
 Para instalar o Kodish Repo Store no seu Kodi, você precisa seguir alguns passos simples. Antes de mais nada, você precisa habilitar a opção de instalar fontes desconhecidas no seu Kodi. Para isso, siga estas instruções:
 
@@ -23,13 +23,13 @@ Para instalar o Kodish Repo Store no seu Kodi, você precisa seguir alguns passo
 - No lado direito da tela, ative a opção Fontes desconhecidas.
 - Confirme a sua escolha clicando em Sim.
 
-Depois de habilitar essa opção, você pode prosseguir com a instalação do Kodish Repo Store. Siga estes passos:
+# Depois de habilitar essa opção, você pode prosseguir com a instalação do Kodish Repo Store. Siga estes passos:
 
 - Volte para a tela inicial do Kodi e clique no ícone de engrenagem novamente.
 - Selecione a opção Gestor de ficheiros.
 - Clique em Adicionar fonte.
 - Clique em <Nenhum>.
-- Digite o seguinte endereço: https://kodishmediacenter.github.io/kodishrepo/
+- Digite o seguinte endereço: http://kodishteam.space/KDStore
 - Dê um nome para a fonte. Por exemplo: Kodish.
 - Clique em OK.
 
@@ -68,3 +68,10 @@ O Kodish Repo Store tem uma grande variedade de add-ons para todos os gostos e n
 - Elementum: este add-on permite que você assista a filmes e séries por meio de torrents no seu Kodi, sem precisar baixar os arquivos. Você pode pesquisar por títulos, gêneros, anos e classificações, além de ver as informações, trailers e legendas dos conteúdos. Você precisa ter uma VPN ativa para usar este add-on com segurança.
 
 - Pluto TV: este add-on permite que você assista a canais de TV online gratuitos no seu Kodi, sem precisar de uma antena ou cabo. Você pode acessar mais de 100 canais de diversos temas, como filmes, séries, esportes, notícias, música e muito mais.
+
+Você não precisa de uma conta para usar este add-on.
+
+# Conclusão: 
+Em resumo, a Kodish Repo Store não é apenas uma loja de add-ons; é um universo digital em constante expansão, oferecendo aos usuários a oportunidade de personalizar suas experiências de entretenimento e descobrir novas formas de desfrutar de conteúdo. Com uma variedade infinita de add-ons e um ambiente acolhedor, a Kodish Repo Store continua a ser uma referência no mundo da personalização e entretenimento digital.
+
+Com sua diversidade, personalização, acessibilidade, comunidade ativa e suporte constante, a Kodish Repo Store continua a encantar e aprimorar a experiência de entretenimento digital de usuários em todo o mundo.
