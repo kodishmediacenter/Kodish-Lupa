@@ -1,5 +1,7 @@
 # Kodish Repo Store: O Destino Definitivo para Add-ons Especiais
 
+creditos: bruno tutorias
+
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvZ1LhRBBfWqeKaqdLJ4upN_atbKcIxeBSNs3ugMERPSmCueVYotAeB-fOr56gstQxuhctyUOnoCDdypQia_KJeKhkF7230YToamTPQofHYljahicP5tlsw1de58Qp5waITkEzL41h0W4DYdozgVTVjXnPgmH68VoTqmO4xHWBV92vs7GxdzFDpPNW0sw/w640-h426-rw/s%20(1)%20(1).webp=w704-h469-p-k-no-nu">
 
 Você quer saber como transformar o seu Kodi em uma superloja de add-ons? Então você precisa conhecer o Kodish Repo Store, um repositório que oferece centenas de opções para personalizar e melhorar a sua experiência com esse media center. Neste artigo, vamos explicar o que é o Kodish Repo Store, como instalá-lo e quais são os melhores add-ons que você pode encontrar nele. Acompanhe!
