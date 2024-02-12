@@ -1,4 +1,6 @@
-# [ELEMENTUM + RAJADA 0.5]
+# [ELEMENTUM + RAJADA 0.5]<br> 
+
+tutorial : Rajada Dev
 
 # 𝐍𝐨𝐯𝐢𝐝𝐚𝐝𝐞𝐬
 - provedores atualizados
