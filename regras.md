@@ -84,4 +84,17 @@ Youtube (Pois nosso conteudo é proibido la somente membros pode ver)
 50) banido addon cine+
 51) fica proibido falar malwares aqui no grupo sujeito ao permaban
 52) Banimento por atos imperdoaveis nunca mais volta para grupo
-53) Não questione ban imperdoavel pois isso da TO (Suspensão) de 28 dias 
+53) Não questione ban imperdoavel pois isso da TO (Suspensão) de 28 dias
+
+# Regras Gerais 
+
+1) Proibido postar listas iptv pagas
+2) Moderadores são proibidos fixar conteúdo no grupo 
+3) Addons sem suporte ou Parceria da Kodish ou Peter team e Kratos Team e parceiros procurar respectivo suporte
+4) Aqui adms remotos continua tendo voz e direitos igual aplicado em seu grupo ou ex grupo (desde que não seja banido aqui no grupo)
+5) Proibida a divulgação canais exceto (Tutoriais,Kodi,jogos e apks android)
+6) Esse grupo é um grupo laico não é permitido pregar ou divulgar sua fé (Permaban) Politica e Futebol Proibido exceto de Listas m3u com jogos GRATIS
+7) As regras do grupo são validas para facebook e Whatsapp da Kodish e chats
+8) Plagio é permaban automático quem denuciar ganha 1/3 KDS de desconto numa lista IPTV valido addons kodish e parceiros
+9) Adm pode postar Off topic Ou Conteúdo Duplicado
+10) Certos termos dá ban na hora verificar a lista termos proibidos 
