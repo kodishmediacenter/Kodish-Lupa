@@ -1,4 +1,4 @@
-# Ubuntu Team-Kodi PPA oficialmente aposentado
+# Ubuntu Team-Kodi PPA Descontinuado
 # Comunidade , Desenvolvedor 
 
 # Equipe Kodi
