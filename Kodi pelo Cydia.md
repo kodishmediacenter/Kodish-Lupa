@@ -1,4 +1,4 @@
-# Instalando Kodi pelo Cydia
+# Instalando Kodi pelo Cydia by (Kodi Team) 
 
 * As versões do Kodi estão disponivel no repositorio default do BigBoss
 
