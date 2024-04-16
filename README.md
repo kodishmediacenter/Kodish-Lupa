@@ -116,6 +116,9 @@ Tem gerar a api tem verificar no topico 6 tem link para procedimento
 
 21) Tutorial uso Nyaa Laucher
      https://www.bilibili.tv/en/video/4789777393648640
+
+22) Como instalar Kodi IOS (Iphone e Ipad)
+    https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/Kodi%20no%20IOS.md
     
 
 # Tutoriais da Comunidade 
