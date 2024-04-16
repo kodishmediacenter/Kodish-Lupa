@@ -11,3 +11,7 @@
 # 3) Digite "Kodi" no campo de busca e clique no Kodi correspondente sua versão do seu dispositivo
 <img src="https://kodi.wiki/images/0/0f/Install_ios_cydia_7.PNG">
 
+# 4) clique em Modificar ou Modify dependendo sua versão do cydia
+<img src="https://kodi.wiki/images/e/e6/Install_ios_cydia_8.PNG">
+
+
