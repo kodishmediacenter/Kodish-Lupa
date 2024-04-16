@@ -8,3 +8,6 @@
 # 2) Clique na aba de Search (uma lupa)
 <img src="https://kodi.wiki/images/1/11/Install_ios_cydia_6.PNG">
 
+# 3) Digite "Kodi" no campo de busca e clique no Kodi correspondente sua versão do seu dispositivo
+<img src="https://kodi.wiki/images/0/0f/Install_ios_cydia_7.PNG">
+
