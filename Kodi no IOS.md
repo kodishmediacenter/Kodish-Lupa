@@ -6,3 +6,5 @@
   
 - e IPA do Kodi
   https://kodiipa.com/
+
+# Kodish não testou esse procedimento faça por sua conta e risco
