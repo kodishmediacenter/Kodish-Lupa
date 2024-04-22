@@ -119,7 +119,9 @@ Tem gerar a api tem verificar no topico 6 tem link para procedimento
 
 22) Como instalar Kodi IOS (Iphone e Ipad)
     https://github.com/kodishmediacenter/Kodish-Lupa/blob/main/Kodi%20no%20IOS.md
-    
+
+23) Kodish Store como instalar 
+https://www.bilibili.tv/en/video/4791024291414016
 
 # Tutoriais da Comunidade 
 
