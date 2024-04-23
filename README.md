@@ -123,6 +123,9 @@ Tem gerar a api tem verificar no topico 6 tem link para procedimento
 23) Kodish Store como instalar 
 https://www.bilibili.tv/en/video/4791024291414016
 
+24) Instalando o kodi da kodish via powershell
+https://www.bilibili.tv/en/video/4791035314052608
+
 # Tutoriais da Comunidade 
 
 - Kodish Store
