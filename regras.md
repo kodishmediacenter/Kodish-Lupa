@@ -59,14 +59,14 @@ Somente com Foto (Sem foto não será mais aprovado)
 Sendo fan ou expert ou adm de outro grupo que fala do assunto do nosso grupo
 Piadinhas ou Criticas não são toleradas no formulário ou criticas prefiro deixe em branco pois tem mais chance passar pelo meu crivo.
 Adm de addons banidos e afins não terão aprovação
-35) Para se tornar moderador ou vip ou embaixador(a) tem participar dos teste de seleção pois evitar favorecimento exceto adm escolher de forma monocrática moderador por merito
+35) Cancelada
 36) A consulta e estudo aos ativos da kodish conforme art 25 é permitida sem aviso previo mas qualquer add-on ou ativo usando versão modificada tem ser enviada uma copia moderador kodish em comando
 37) A kodish não se responsabiliza IPTV de outros addons pois é obtido na maioria dos casos de forma não autorizada de outros provedores IPTV
 38) A kodish não dá mais suporte a IPTV dura 30 seg é cai pois é um teste iptv que foi obtida forma errônea pelo desenvolvedor do addon a pessoa com duvida será redirecionada para suporte do addon.
 39) Agora os membros poderão levar timeout 1 semana se
-postar conteúdo off-topic de 7 dias
-quem acusar sem prova de plagio
-quem indicar que plagio se conteúdo for torrent ou compartilhado
+    * postar conteúdo off-topic de 7 dias a insistencia é ban mas a pessoa pode ser monocraticamente
+    * quem acusar sem prova de plagio
+    * quem indicar que plagio se conteúdo for torrent ou compartilhado
 40) A kodish permite compartilhamento de addons e materiais para gravar vídeos desde que seja compartilhado com grupo.
 41) Fica proibido a divulgação de TV Boxes no Grupo pois terá BAN AUTOMATICO (Execeto Boxes Homologadas pela ANATEL)
 42) Tv boxes com iptv proprio não será dado suporte
@@ -79,14 +79,15 @@ Binance (Corretora de Criptomoedas)
 Blaze e todas casas de apostas
 Q4 Teleco (União das Empresas do Cartel telecomunicações)
 Youtube (Pois nosso conteudo é proibido la somente membros pode ver)
-48) Proibido indicar serviço IPTV Pago aos usuários da Kodish pois é proibido pela ANATEL exceto serviço pago e homologado sob incidência art. 6 da Kodish e respeitando art. 1
+48) Proibido indicar serviço IPTV Pago aos usuários da Kodish. Pois é proibido pela ANATEL exceto serviço pago e homologado sob incidência art. 6 da Kodish e respeitando art. 1
 49) Ao sinalizar erro tem que informar a versao do Kodi e Sistema Operacional sujeito TO (1 dia a 7 dias) ou banimento em causa reicidencia
 50) banido addon cine+
-51) fica proibido falar malwares aqui no grupo sujeito ao permaban
+51) fica proibido falar malwares aqui no grupo publicamente tem reportar no Privado aos adms
 52) Banimento por atos imperdoaveis nunca mais volta para grupo
 53) Não questione ban imperdoavel pois isso da TO (Suspensão) de 28 dias
+54) Agoras quem faz parte admistracao adm,moderador,colaborador e embaixador (papel moderador)
 
-# Regras Gerais 
+# Regras Gerais   
 
 1) Proibido postar listas iptv pagas
 2) Moderadores são proibidos fixar conteúdo no grupo 
@@ -95,6 +96,6 @@ Youtube (Pois nosso conteudo é proibido la somente membros pode ver)
 5) Proibida a divulgação canais exceto (Tutoriais,Kodi,jogos e apks android)
 6) Esse grupo é um grupo laico não é permitido pregar ou divulgar sua fé (Permaban) Politica e Futebol Proibido exceto de Listas m3u com jogos GRATIS
 7) As regras do grupo são validas para facebook e Whatsapp da Kodish e chats
-8) Plagio é permaban automático quem denuciar ganha 1/3 KDS de desconto numa lista IPTV valido addons kodish e parceiros
+8) Cancelado
 9) Adm pode postar Off topic Ou Conteúdo Duplicado
 10) Certos termos dá ban na hora verificar a lista termos proibidos 
