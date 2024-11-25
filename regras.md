@@ -86,6 +86,7 @@ Youtube (Pois nosso conteudo é proibido la somente membros pode ver)
 52) Banimento por atos imperdoaveis nunca mais volta para grupo
 53) Não questione ban imperdoavel pois isso da TO (Suspensão) de 28 dias
 54) Agoras quem faz parte admistracao adm,moderador,colaborador e embaixador (papel moderador)
+55) Agora todo suporte ao Whatsapp ou chat tem ser por escrito não mais por voz
 
 # Regras Gerais   
 
