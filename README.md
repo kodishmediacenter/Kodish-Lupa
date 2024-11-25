@@ -3,16 +3,13 @@
 # Links
 
 kodish store 
-http://kodishteam.space/KDStore
-
-Linux Chineses e Kodi 21
-http://kodishteam.space/KDStoreD
+http://kodish.space/KDStore
 
 External Player 
 https://kodi.wiki/view/External_players
 
 Super Servidor
-http://kodishteam.space/ssrp 
+http://kodish.space/ssrp 
 ou Kodish store
 
 Site do Kodi 
