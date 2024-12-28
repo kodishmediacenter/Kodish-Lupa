@@ -1,16 +1,10 @@
 # LEITURA OBRIGATÓRIA PARA OS NOVATOS NO KODI
 
-# Muita gente confunde "má performance no Kodi" com "addons que rodam no Kodi" e além disso, atribuem problemas de travamentos também à sua internet quando muitas vezes está sendo um problema de compatibilidade direta com o aplicativo e seu sistema. 
+# Muita gente confunde "má performance no Kodi" com "addons que rodam no Kodi" e além disso, atribuem problemas de travamentos também à sua internet quando muitas vezes está sendo um problema de compatibilidade direta com o aplicativo e seu sistema. <br>
 
-1. Kodi não é programa pir@t@ e seu download é oficial.  Instáveis e/ou piratas são os add-ons de terceiros, em sua maioria.
-2. Kodi tem versões diversas para cada sistema e, ainda que se escolha Windows, Android etc, tem que se observar qual versão de PROCESSAMENTO será compatível (32 ou 64 bits).
-Detalhe: para o Windows as vezes processamentos contrários é que vão ficar estáveis.  Aí já é lá com o Bill Gates.
-3. Em geral travamentos e outros problemas  ocorrem com listas ou add-ons lineares (de transmissão em tempo real).
-Aí o segundo problema entra: Não adianta se ter internet de 500 mb para "download" quando aquele add-on "X" de terceiros "não" consegue fazer "upload" para milhares de pessoas ao mesmo tempo! 
-Assim, não há como resolver na sua máquina ou no seu sistema.
-Então aquela pergunta "como resolvo"? já era! Ajoelha e reza para o desenvolvedor resolver!
-Você pode ter uma boca (internet) bem grande porém receberá apenas um Amendoin por vez de quem joga(upload do servidor). 
-Ainda há mais ocorrências negativas:
+# 1. Kodi não é programa pir@t@ e seu download é oficial.  Instáveis e/ou piratas são os add-ons de terceiros, em sua maioria.<br>
+# 2. Kodi tem versões diversas para cada sistema e, ainda que se escolha Windows, Android etc, tem que se observar qual versão de PROCESSAMENTO será compatível (32 ou 64 bits).Detalhe: para o Windows as vezes processamentos contrários é que vão ficar estáveis.  Aí já é lá com o Bill Gates.<br>
+# 3. Em geral travamentos e outros problemas  ocorrem com listas ou add-ons lineares (de transmissão em tempo real). Aí o segundo problema entra: Não adianta se ter internet de 500 mb para "download" quando aquele add-on "X" de terceiros "não" consegue fazer "upload" para milhares de pessoas ao mesmo tempo! Assim, não há como resolver na sua máquina ou no seu sistema.Então aquela pergunta "como resolvo"? já era! Ajoelha e reza para o desenvolvedor resolver! Você pode ter uma boca (internet) bem grande porém receberá apenas um Amendoin por vez de quem joga(upload do servidor). Ainda há mais ocorrências negativas:
 ❌Bloqueio de IPs suspeitos
 ❌Perda de pacotes
 ,❌Traffic Shaping
