@@ -1,9 +1,8 @@
-Aqui está o texto convertido para o formato Markdown:
-
 ```markdown
 # LEITURA OBRIGATÓRIA PARA OS NOVATOS NO KODI
 
-Muita gente confunde "má performance no Kodi" com "addons que rodam no Kodi" e, além disso, atribuem problemas de travamentos também à sua internet quando, muitas vezes, está sendo um problema de compatibilidade direta com o aplicativo e seu sistema.
+Muita gente confunde "má performance no Kodi" com "addons que rodam no Kodi" e, além disso, atribuem problemas de travamentos também à sua internet quando,
+ muitas vezes, está sendo um problema de compatibilidade direta com o aplicativo e seu sistema.
 
 ## 1. Kodi não é programa pir@t@ e seu download é oficial.
 Instáveis e/ou piratas são os add-ons de terceiros, em sua maioria.
