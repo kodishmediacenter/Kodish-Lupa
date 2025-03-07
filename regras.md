@@ -25,3 +25,5 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
      >> Não Levar Ban ou Timeout durante 90 dias ou ter redflag 21
      
 17) Para participar tem mandar arquivo Addons33.db kodishmediacenter@gmail.com zipado pode ser obtido em special://home/userdata/Database pode ser verificado onde fica https://kodi.wiki/view/Special_protocol
+18) Apartir Agora todas as pessoas terão ter mais 3 meses para ingressar no grupo
+19) Perfil com mais 3 meses como planta podera ser banido
