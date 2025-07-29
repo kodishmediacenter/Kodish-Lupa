@@ -27,3 +27,5 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 17) Para participar tem mandar arquivo Addons33.db kodishmediacenter@gmail.com zipado pode ser obtido em special://home/userdata/Database pode ser verificado onde fica https://kodi.wiki/view/Special_protocol
 18) Apartir Agora todas as pessoas terão ter mais 3 meses para ingressar no grupo
 19) Perfil com mais 3 meses como planta podera ser banido
+20) Administrador de Addon postar na sua perfil pessoal apoia ao golpe (08/01) e a lei Magnitsky pode ter addon banido da Kodish store (PS: coloquei golpe mesmo pois não aconteceu mas temos pessoas no poder que manda e desmandam apoiam esse golpe)
+
