@@ -3,13 +3,13 @@
 # Links
 
 kodish store 
-http://kodish.space/KDStore
+http://kodishspace.space/KDStore
 
 External Player 
 https://kodi.wiki/view/External_players
 
 Super Servidor
-http://kodish.space/ssrp 
+http://kodishspace.space/ssrp 
 ou Kodish store
 
 Site do Kodi 
