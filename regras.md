@@ -29,3 +29,4 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 19) Perfil com mais 3 meses como planta podera ser banido
 20) Administrador de Addon postar na sua perfil pessoal apoia ao golpe (08/01) e a lei Magnitsky pode ter addon banido da Kodish store (PS: coloquei golpe mesmo pois não aconteceu mas temos pessoas no poder que manda e desmandam apoiam esse golpe)
 21) Adms addons proibidos Keltec Megabox Bluray Plays Br Live Nordeste Tv Apollo (Mas sem sansão contra)
+22) Agora podera participar participar de videos com a kodish vc deve me procurar ou nos vos procuramos. Para Trabalhos tag 
