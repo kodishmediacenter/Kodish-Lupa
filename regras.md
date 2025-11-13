@@ -33,4 +33,5 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 21) Adms addons proibidos Keltec Megabox Bluray Plays Br Live Nordeste Tv Apollo (Mas sem sansão contra)
 22) Agora podera participar participar de videos com a kodish vc deve me procurar ou nos vos procuramos. Para Trabalhos tag
 23) Perfil planta (Sem Foto / e com Camiseta Partido Politico ou Sem publicação nenhuma)
+24) As regras da Kodish é valida em todo ecosistema da Kodish Atual e Futuro
     
