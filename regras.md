@@ -6,7 +6,7 @@ função aprovar ou não conteudos da Kodish conforme as regras
 3)  Harashi é quando adm perde infomações e usuario enrola ou recusa dar
 ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 4)  Adm tem liberdade postar Off-topic é isento das regras da Kodish. E moderadores não são isentos das regras são obrigado a cumprir 
-5)  O Grupo é grupo laico proibido videos religiosos de qualquer especie exceto add-ons
+5)  O Grupo é Ateu é proibido videos religiosos de qualquer especie exceto add-ons
 6)  O Grupo é proibido qualquer especie de politica (Tanto Esquerda / Centro ou Direita) e agenda Woke e Missão (MBL)
 7)  Moedas Corrente do Grupo (Bitcoin ou Linden) ou Kodish Coin 
 8)  Alguns Moderadores foram banidos da Comunidade por tentar derrubar a Kodish e seu ban é perpetuo.
@@ -34,4 +34,7 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 22) Agora podera participar participar de videos com a kodish vc deve me procurar ou nos vos procuramos. Para Trabalhos tag
 23) Perfil planta (Sem Foto / e com Camiseta Partido Politico ou Sem publicação nenhuma)
 24) As regras da Kodish é valida em todo ecosistema da Kodish Atual e Futuro
+25) Ao Conversar com membro da Kodish em espaço oficial da Kodish (Whatapp / Facebook / Instagram / x.com / Redes Socias afim) Obrigatorio seguir as regras da Kodish
+26) Feriados validos na Kodish (Natal / Ano Novo / Pascoa / Dia das Crianças). Demais datas são feriados e não mencionamos.
+27) Proibido video de Auto Ajuda e são violação art 5 das regras. 
     
