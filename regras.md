@@ -36,5 +36,6 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 24) As regras da Kodish é valida em todo ecosistema da Kodish Atual e Futuro
 25) Ao Conversar com membro da Kodish em espaço oficial da Kodish (Whatapp / Facebook / Instagram / x.com / Redes Socias afim) Obrigatorio seguir as regras da Kodish
 26) Feriados validos na Kodish (Natal / Ano Novo / Pascoa / Dia das Crianças). Demais datas são feriados e não mencionamos.
-27) Proibido video de Auto Ajuda e são violação art 5 das regras. 
+27) Proibido video de Auto Ajuda e Auto Promoção e são violação art 5 das regras.
+28) Os Adms de grupos que pratica ban / timeout / Shadown Ban terão aplicado a regra da reciprocidade em caso reincidencia ban é perpertuo 
     
