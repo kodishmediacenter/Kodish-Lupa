@@ -38,5 +38,6 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 26) Feriados validos na Kodish (Natal / Ano Novo / Pascoa / Dia das Crianças). Demais datas são feriados e não mencionamos.
 27) Proibido video de Auto Ajuda e Auto Promoção e são violação art 5 das regras.
 28) Os Adms de grupos que pratica ban / timeout / Shadown Ban terão aplicado a regra da reciprocidade em caso reincidencia ban é perpertuo
-29) Devido a Lei Felca as regras postagem está suspensa exceto art 5 e art 6 
+29) Devido a Lei Felca as regras postagem está suspensa exceto art 5 e art 6 (Suspenso)
+30) O Anglicanismo (Usado geração Z) está proibido exceto termo tecnico pertecentes a eletronica ou a informatica.
     
