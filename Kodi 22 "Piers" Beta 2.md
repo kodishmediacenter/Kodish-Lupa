@@ -1,3 +1,4 @@
+<img  src="https://kodi.tv/images/blog/kodi_splash_v22.0_piers_beta_1080p.webp"> <br><br>
 # Kodi 22 "Piers" Beta 2
 
 Pré-lançamento 
