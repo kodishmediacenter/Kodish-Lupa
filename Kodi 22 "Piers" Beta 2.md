@@ -50,12 +50,13 @@ Certo, quais são as novidades desta versão?
 * Correção na reprodução de fontes com metadados de luz HDR incorretos.
   
 # Marcadores / Capítulos
-O marcador corrigido não era apagado ao término da reprodução.
-Correção do problema de pular capítulos durante a reprodução de DVDs.
-Corrigido o tempo e o capítulo exibidos após a mudança de capítulo.
-Corrigido o problema que fazia com que dois capítulos fossem criados no primeiro segundo.
-3D
-Correção do atraso na troca ao mudar para o modo 3D
+* O marcador corrigido não era apagado ao término da reprodução.
+* Correção do problema de pular capítulos durante a reprodução de DVDs.
+* Corrigido o tempo e o capítulo exibidos após a mudança de capítulo.
+* Corrigido o problema que fazia com que dois capítulos fossem criados no primeiro segundo.
+
+# 3D
+* Correção do atraso na troca ao mudar para o modo 3D
 Áudio
 Altere as configurações do pré-amplificador ReplayGain para que fiquem centradas em 0 dB em vez de 89 dB.
 Correção de erros no analisador M2TS para conteúdo DTS/TrueHD e LPCM.
