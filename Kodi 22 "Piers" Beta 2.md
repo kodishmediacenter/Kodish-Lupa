@@ -32,22 +32,24 @@ Certo, quais são as novidades desta versão?
 * Corrigido o problema que causava o fechamento inesperado do sistema ao usar codecs de vídeo adicionais com algumas plataformas integradas (DRMPRIME).
 * Corrigido possível vazamento de memória com complementos binários de codec de vídeo.
 
-Blu-ray
-Libbluray atualizado para a versão 1.5.0
-Melhoria no processamento de episódios em Blu-ray
-Seleção de listas de reprodução de filmes Blu-ray aprimorada
-Velocidade aprimorada na detecção de discos Blu-ray.
-Corrigido possível travamento ao selecionar "Menu Blu-ray" durante a escolha de uma lista de reprodução Blu-ray.
-Corrigidos metadados desatualizados na transição de itens da lista de reprodução.
-HDR
-Capturas de tela ativadas para conteúdo HDR
-Colorimetria com mapeamento de tons fixo (HDR->SDR)
-Corrigido o problema com metadados HDR desatualizados exibidos para informações de vídeo.
-Correção na reprodução de Dolby Vision no Android com legendas PGS
-Lógica PQ de transferência HDR corrigida no webOS
-Correção na reprodução de conteúdo HDR10 HEVC Main 10 no macOS
-Correção na reprodução de fontes com metadados de luz HDR incorretos.
-Marcadores / Capítulos
+# Blu-ray
+* Libbluray atualizado para a versão 1.5.0
+* Melhoria no processamento de episódios em Blu-ray
+* Seleção de listas de reprodução de filmes Blu-ray aprimorada
+* Velocidade aprimorada na detecção de discos Blu-ray.
+* Corrigido possível travamento ao selecionar "Menu Blu-ray" durante a escolha de uma lista de reprodução Blu-ray.
+* Corrigidos metadados desatualizados na transição de itens da lista de reprodução.
+  
+# HDR
+* Capturas de tela ativadas para conteúdo HDR
+* Colorimetria com mapeamento de tons fixo (HDR->SDR)
+* Corrigido o problema com metadados HDR desatualizados exibidos para informações de vídeo.
+* Correção na reprodução de Dolby Vision no Android com legendas PGS
+* Lógica PQ de transferência HDR corrigida no webOS
+* Correção na reprodução de conteúdo HDR10 HEVC Main 10 no macOS
+* Correção na reprodução de fontes com metadados de luz HDR incorretos.
+  
+# Marcadores / Capítulos
 O marcador corrigido não era apagado ao término da reprodução.
 Correção do problema de pular capítulos durante a reprodução de DVDs.
 Corrigido o tempo e o capítulo exibidos após a mudança de capítulo.
