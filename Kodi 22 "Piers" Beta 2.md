@@ -16,20 +16,22 @@ Se você quer o que há de mais recente e melhor, esta versão é para você. A 
 
 Certo, quais são as novidades desta versão?
 
-Registro de alterações
-Vídeo
-FFmpeg atualizado para a versão 9.0.1
-Detecção de formato de pixel fixo para conteúdo AV1
-Dimensões fixas de reprodução em tela cheia em TVs de 50 Hz.
-Correção na detecção de FPS em fluxos de transporte MPEG (.ts / .m2ts)
-Corrigido o problema de perda do sinal de vídeo HDMI ao reproduzir determinados conteúdos.
-Correção na precisão de pular quando pausado
-Problema de reprodução corrigido ao mover o Kodi entre telas no Windows.
-Correção do problema de retomada de fluxos de transporte MPEG com vídeo H.264 no Android.
-Corrigida a regressão do VC-1 que causava travamentos significativos no Android TV.
-Corrigida a configuração "sincronizar reprodução com a tela" para algumas plataformas embarcadas (GBM).
-Corrigido o problema que causava o fechamento inesperado do sistema ao usar codecs de vídeo adicionais com algumas plataformas integradas (DRMPRIME).
-Corrigido possível vazamento de memória com complementos binários de codec de vídeo.
+# Registro de alterações
+
+#  Vídeo
+* FFmpeg atualizado para a versão 9.0.1
+* Detecção de formato de pixel fixo para conteúdo AV1
+* Dimensões fixas de reprodução em tela cheia em TVs de 50 Hz.
+* Correção na detecção de FPS em fluxos de transporte MPEG (.ts / .m2ts)
+* Corrigido o problema de perda do sinal de vídeo HDMI ao reproduzir determinados conteúdos.
+* Correção na precisão de pular quando pausado
+* Problema de reprodução corrigido ao mover o Kodi entre telas no Windows.
+* Correção do problema de retomada de fluxos de transporte MPEG com vídeo H.264 no Android.
+* Corrigida a regressão do VC-1 que causava travamentos significativos no Android TV.
+* Corrigida a configuração "sincronizar reprodução com a tela" para algumas plataformas embarcadas (GBM).
+* Corrigido o problema que causava o fechamento inesperado do sistema ao usar codecs de vídeo adicionais com algumas plataformas integradas (DRMPRIME).
+* Corrigido possível vazamento de memória com complementos binários de codec de vídeo.
+
 Blu-ray
 Libbluray atualizado para a versão 1.5.0
 Melhoria no processamento de episódios em Blu-ray
