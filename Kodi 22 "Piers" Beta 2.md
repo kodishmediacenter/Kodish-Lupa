@@ -57,63 +57,71 @@ Certo, quais são as novidades desta versão?
 
 # 3D
 * Correção do atraso na troca ao mudar para o modo 3D
-Áudio
-Altere as configurações do pré-amplificador ReplayGain para que fiquem centradas em 0 dB em vez de 89 dB.
-Correção de erros no analisador M2TS para conteúdo DTS/TrueHD e LPCM.
-Correção na quebra de metadados de áudio DTS/DTS-HD pela sonda rápida MPEG-TS.
-Corrigida possível perda de áudio ao reproduzir HDR com áudio passthrough.
-Corrigido o problema de distorção de som no webOS.
-Corrigido o problema que fazia com que a primeira faixa fosse pulada após a reprodução da última faixa com a opção "repetir tudo" ativada.
-Legendas
-Seleção automática aprimorada de diferentes idiomas.
-Corrigido possível problema de dessincronização de legendas externas ao realizar a busca.
-Problema resolvido com a busca de legendas externas e caminhos HTTP://
-Corrigido o problema das legendas não aparecerem após retroceder para o capítulo anterior ou realizar uma busca extensa.
-Corrigido o problema que causava o fechamento inesperado do sistema no LG webOS ao exibir legendas.
-Correção na remoção de legendas com caminhos codificados em URL.
-PVR
-Correção da "seleção inteligente" na janela Guia.
-Corrigida possível perda de vídeo ao trocar de canal no PVR em plataformas integradas.
-Corrigido o tipo de lembrete exibido incorretamente na caixa de diálogo de configurações do temporizador.
-Resolução corrigida para itens que contêm apenas o caminho do item, sem tag.
-Jogos
-Adicionado suporte completo ao RetroAchievements
-Adicionada a capacidade de memorizar quais emuladores são usados ​​por jogo e por pasta.
-Adicionada mensagem de erro quando os estados de salvamento compactados da versão 23 são carregados na versão 22.
-Adicionada emulação do canal F da Fairchild
-Suporte aprimorado para RetroAchievements
-Corrigido problema de áudio em alguns emuladores.
-Corrigido o descarte de quadros de áudio no início de uma transmissão.
-Corrigido o problema com a vibração no jogo.
-Correção de problemas com quadros corrompidos em algumas plataformas baseadas em Linux.
-Emuladores corrigidos usando os diretórios system/save do emulador anterior.
-Corrigido possível problema de travamento ao conectar/desconectar controladores.
-Gatilhos analógicos corrigidos em emuladores de Dreamcast
-Biblioteca
-Adicionada configuração avançada para ignorar nomes de pastas dentro de arquivos compactados.
-Funcionalidade aprimorada da versão em vídeo
-Melhoria na transição gradual de imagens
-Corrigido o problema na exibição da arte da série de filmes
-Corrigido o problema que causava o fechamento inesperado do programa ao sair enquanto um diretório ainda estava carregando.
-Corrigido o status desatualizado de filmes/séries assistidos/em andamento.
-Corrigido o problema em que os detalhes dos programas de TV eram perdidos após uma atualização de metadados.
-Correção na ordenação de itens da biblioteca com acentos nórdicos (æ/ø/å/ä/ö)
-Exibição fixa de programas de TV vazios
-Corrigida a remoção incompleta de filmes ao definir o conteúdo de origem como "Nenhum".
-Corrigido o problema de extração de dados de itens com uma {tvdb}tag no nome do arquivo.
-Corrigidos diversos erros no manuseio de arquivos .rar
-Ordem de classificação dos filmes com versões corrigida.
-Corrigido o problema de lentidão na digitalização de miniaturas de atores e artes de séries de TV para importação/exportação.
-Corrigido o nome e as informações incorretas exibidas para os arquivos BDMV.
-Corrigido o problema que impedia a reprodução de trailers quando uma imagem ISO de Blu-ray já havia sido reproduzida pelo menos uma vez.
-interface do usuário
-Adicionado suporte para imagens SVG
-Corrigido o problema de rolagem vertical instável em textos longos.
-Correção na detecção de swizzle em algumas plataformas OpenGL.
-Corrigido o impasse no encerramento quando a caixa de diálogo PlayerProcess está aberta.
-Resolução fixa em algumas plataformas embarcadas.
-A seleção fixa de monitor fica oculta em alguns sistemas com vários monitores.
-Correção na exibição da temperatura da CPU/GPU em sistemas M5.
+
+# Áudio
+
+* Altere as configurações do pré-amplificador ReplayGain para que fiquem centradas em 0 dB em vez de 89 dB.
+* Correção de erros no analisador M2TS para conteúdo DTS/TrueHD e LPCM.
+* Correção na quebra de metadados de áudio DTS/DTS-HD pela sonda rápida MPEG-TS.
+* Corrigida possível perda de áudio ao reproduzir HDR com áudio passthrough.
+* Corrigido o problema de distorção de som no webOS.
+* Corrigido o problema que fazia com que a primeira faixa fosse pulada após a reprodução da última faixa com a opção "repetir tudo" ativada.
+
+# Legendas
+* Seleção automática aprimorada de diferentes idiomas.
+* Corrigido possível problema de dessincronização de legendas externas ao realizar a busca.
+* Problema resolvido com a busca de legendas externas e caminhos HTTP://
+* Corrigido o problema das legendas não aparecerem após retroceder para o capítulo anterior ou realizar uma busca extensa.
+* Corrigido o problema que causava o fechamento inesperado do sistema no LG webOS ao exibir legendas.
+* Correção na remoção de legendas com caminhos codificados em URL.
+
+# PVR
+* Correção da "seleção inteligente" na janela Guia.
+* Corrigida possível perda de vídeo ao trocar de canal no PVR em plataformas integradas.
+* Corrigido o tipo de lembrete exibido incorretamente na caixa de diálogo de configurações do temporizador.
+* Resolução corrigida para itens que contêm apenas o caminho do item, sem tag.
+
+# Jogos
+* Adicionado suporte completo ao RetroAchievements
+* Adicionada a capacidade de memorizar quais emuladores são usados ​​por jogo e por pasta.
+* Adicionada mensagem de erro quando os estados de salvamento compactados da versão 23 são carregados na versão 22.
+* Adicionada emulação do canal F da Fairchild
+* Suporte aprimorado para RetroAchievements
+* Corrigido problema de áudio em alguns emuladores.
+* Corrigido o descarte de quadros de áudio no início de uma transmissão.
+* Corrigido o problema com a vibração no jogo.
+* Correção de problemas com quadros corrompidos em algumas plataformas baseadas em Linux.
+* Emuladores corrigidos usando os diretórios system/save do emulador anterior.
+* Corrigido possível problema de travamento ao conectar/desconectar controladores.
+* Gatilhos analógicos corrigidos em emuladores de Dreamcast
+
+# Biblioteca
+* Adicionada configuração avançada para ignorar nomes de pastas dentro de arquivos compactados.
+* Funcionalidade aprimorada da versão em vídeo
+* Melhoria na transição gradual de imagens
+* Corrigido o problema na exibição da arte da série de filmes
+* Corrigido o problema que causava o fechamento inesperado do programa ao sair enquanto um diretório ainda estava carregando.
+* Corrigido o status desatualizado de filmes/séries assistidos/em andamento.
+* Corrigido o problema em que os detalhes dos programas de TV eram perdidos após uma atualização de metadados.
+* Correção na ordenação de itens da biblioteca com acentos nórdicos (æ/ø/å/ä/ö)
+* Exibição fixa de programas de TV vazios
+* Corrigida a remoção incompleta de filmes ao definir o conteúdo de origem como "Nenhum".
+* Corrigido o problema de extração de dados de itens com uma {tvdb}tag no nome do arquivo.
+* Corrigidos diversos erros no manuseio de arquivos .rar
+* Ordem de classificação dos filmes com versões corrigida.
+* Corrigido o problema de lentidão na digitalização de miniaturas de atores e artes de séries de TV para importação/exportação.
+* Corrigido o nome e as informações incorretas exibidas para os arquivos BDMV.
+* Corrigido o problema que impedia a reprodução de trailers quando uma imagem ISO de Blu-ray já havia sido reproduzida pelo menos uma vez.
+
+# Interface do usuário
+* Adicionado suporte para imagens SVG
+* Corrigido o problema de rolagem vertical instável em textos longos.
+* Correção na detecção de swizzle em algumas plataformas OpenGL.
+* Corrigido o impasse no encerramento quando a caixa de diálogo PlayerProcess está aberta.
+* Resolução fixa em algumas plataformas embarcadas.
+* A seleção fixa de monitor fica oculta em alguns sistemas com vários monitores.
+* Correção na exibição da temperatura da CPU/GPU em sistemas M5.
+
 Esfolamento
 Adicionada $MAP[]sintaxe XML para tabelas de pesquisa de chave/valor.
 Adicionado Control.ResetGrouplist()para redefinir o último item selecionado em uma lista agrupada.
