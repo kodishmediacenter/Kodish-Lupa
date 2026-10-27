@@ -7,13 +7,13 @@ função aprovar ou não conteudos da Kodish conforme as regras
 ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 4)  Adm tem liberdade postar Off-topic é isento das regras da Kodish. E moderadores não são isentos das regras são obrigado a cumprir 
 5)  O Grupo é Ateu é proibido videos religiosos de qualquer especie exceto add-ons
-6)  O Grupo é proibido qualquer especie de politica (Tanto Esquerda / Centro ou Direita) e agenda Woke e Missão (MBL)
+6)  O Grupo é proibido qualquer especie de politica (Tanto Esquerda / Centro ou Direita) e agenda Woke e Missão (MBL) e Bolsonarista 
 7)  Moedas Corrente do Grupo (Bitcoin ou Linden) ou Kodish Coin 
 8)  Alguns Moderadores foram banidos da Comunidade por tentar derrubar a Kodish e seu ban é perpetuo.
 9)  Moderadores de grupos aliados tem ser respeitado pela Comunidade Kodish pois se insistir Permaban
 10) Proibido falar abertamente e chat sobre malwares tem comunicar adm ou moderador pois acusação seria
 11) Proibido falar Bet exceto Kbet quando abro palpites aqui no grupo 
-12) Listas de Empresas Banidas da Kodish Binance (Corretora de Criptomoedas) Blaze e todas casas de apostas Q4 Teleco (União das Empresas do Cartel telecomunicações)
+12) Listas de Empresas Banidas da Kodish Binance (Corretora de Criptomoedas) Blaze e todas casas de apostas Q4 Teleco (União das Empresnas do Cartel telecomunicações)
 13) Moderadores é para maiores 18 anos.
 14) Proibido falar de forma pejorativa de Empresas e Pessoas sujeito a Ban ou Timeout dependendo do caso 
 15) As duvidas tem ter no escopo a seguinte informação "Onde Acontece o erro e Dispositivo e o Sistema Operacional e Versão do Kodi" que acontece pois somos um grupo de tecnologia não tenda de advinhação
@@ -38,6 +38,7 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 26) Feriados validos na Kodish (Natal / Ano Novo / Pascoa / Dia das Crianças). Demais datas são feriados e não mencionamos.
 27) Proibido video de Auto Ajuda e Auto Promoção e são violação art 5 das regras.
 28) Os Adms de grupos que pratica ban / timeout / Shadown Ban terão aplicado a regra da reciprocidade em caso reincidencia ban é perpertuo
-29) Devido a Lei Felca as regras postagem está suspensa exceto art 5 e art 6 (Suspenso)
+29) Regra removida
 30) O Anglicanismo (Usado geração Z) está proibido exceto termo tecnico pertecentes a eletronica ou a informatica.
-    
+31) Pessoas com aporofobia direta ou indiretamente podem ser banidos
+32) Pessoas associadas ao terrorismo serão banidas pego em flagrante   
