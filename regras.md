@@ -41,4 +41,5 @@ ao adm ou desrepeitar adm ou moderadores da Kodish e seus Parceiros
 29) Regra removida
 30) O Anglicanismo (Usado geração Z) está proibido exceto termo tecnico pertecentes a eletronica ou a informatica.
 31) Pessoas com aporofobia direta ou indiretamente podem ser banidos
-32) Pessoas associadas ao terrorismo serão banidas pego em flagrante   
+32) Pessoas associadas ao terrorismo serão banidas pego em flagrante
+33) A Kodish Team Condena o ranço eleitoral não importando o lado pois a Kodish é Apolitico e Ateu quem Forçar a Barra será Banido
